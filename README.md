@@ -1,6 +1,6 @@
 # DrawBot-by-Raider
-Dies ist ein Drawbot, welcher von mir in Python geschrieben worden ist. Er funktioniert in jedem Spiel
-Wahrscheinlich müsst ihr euch noch ein paar Sachen mit pip instalieren
+Dies ist ein Drawbot, welcher von mir in Python geschrieben worden ist. Er funktioniert in jedem Spiel.
+Wahrscheinlich müsst ihr euch noch ein paar Sachen mit pip instalieren aber das solltet ihr selber hinbekommen
 
 In dem Ordner Drawbot gibt es 2 Hauptprogramme einmal den Drawbot und einmal test color. 
 Test color verwendet man um eine weitere Klasse für den zu programieren.
