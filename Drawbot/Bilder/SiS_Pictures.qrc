@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="SiS_Pic">
+    <file>Red_Point.jpg</file>
+    <file>Cover_2.0.jpg</file>
+  </qresource>
+</RCC>
