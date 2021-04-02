@@ -17,7 +17,7 @@ Schritt 2:
 über die gewünschten Farbe eines Spiels hovern und B für jede Farbe clicken
 
 Schritt 3:
-Datei mit dem Namen "ka was auch immer" wählen: Vorsicht dabei nicht die Tasten "d" "p" oder "p" clicken
+Datei mit dem Namen "ka was auch immer" wählen: Vorsicht dabei nicht die Tasten "d" "p" oder "c" clicken
 
 Schritt 4: 
 die Skribble IO Datei öffnen und in die vorherige Datei kopieren
