@@ -11,6 +11,9 @@ Nach kurzer Zeit öffnet sich das gewünschte Bild und der Bot fängt von der ak
 
 Neue Klasse erstellen:
 Schritt 1:
+Erstelle einen Ordner mit dem Namen Img im Ordner Drawbot
+
+Dann:
 test color starten
 
 Schritt 2:
