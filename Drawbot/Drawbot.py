@@ -261,7 +261,7 @@ class Ui_DrawBot(QtWidgets.QWidget):
             self.DrawBot_Preview5.setStyleSheet("")
             self.DrawBot_Preview6.setStyleSheet("")
             if keyboard.is_pressed("y"):
-                # self.ChoosenImg = self.downloaded_images_Pixmap[0]
+                self.ChoosenImg = self.downloaded_images_Pixmap[0]
                 print("1")
                 self.DrawBot_selectTimer.stop()
                 self.BotModus()
