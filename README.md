@@ -4,7 +4,7 @@ Wahrscheinlich müsst ihr euch noch ein paar Sachen mit pip instalieren aber das
 
 Tutorial:
 1. Ordner erstellen mit dem Namen "Bilder"
-2. in Datei "UserAgent" den "UserAgent" eintragen (Google suche: Useragent -> Resultat eintragen)
+2. in Datei "UserAgent" den "UserAgent" eintragen (Google suche: "My Useragent" -> Resultat eintragen)
 
 
 https://www.youtube.com/watch?v=EchWjjetQEM
