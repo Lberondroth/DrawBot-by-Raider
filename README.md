@@ -3,7 +3,7 @@ Dies ist ein Drawbot, welcher von mir in Python geschrieben worden ist. Er funkt
 Wahrscheinlich müsst ihr euch noch ein paar Sachen mit pip instalieren aber das solltet ihr selber hinbekommen
 
 Tutorial:
-1. Ordner erstellen mit dem Namen "Bilder"
+1. Ordner erstellen mit dem Namen "img"
 2. in Datei "UserAgent" den "UserAgent" eintragen (Google suche: "My Useragent" -> Resultat eintragen)
 
 
